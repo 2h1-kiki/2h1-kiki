@@ -7,15 +7,20 @@
   <br />
   <p><b>🛠 Tech Stack</b></p>
   <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,vite,javascript,typescript,redux,github,figma" />
+    </a>
+  </p>
+  <!-- <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>&nbsp;
     <br />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-</p>
-  <br />
-  <!-- <p><b>📈 GiHub Stats</b></p>
+  </p> -->
+  <!-- <br />
+  <p><b>📈 GiHub Stats</b></p>
   <p>
     <table>
       <tr>
