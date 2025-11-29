@@ -6,23 +6,28 @@
   </p>
   <br />
   <p><b>🛠 Tech Stack</b></p>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>&nbsp;
-  </p>
+    <br />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+</p>
   <br />
-  <p><b>📈 GiHub Stats</b></p>
+  <!-- <p><b>📈 GiHub Stats</b></p>
   <p>
     <table>
       <tr>
         <td align="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=2h1-kiki&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
+          [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
         </td>
         <td align="top" width="50%">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2h1-kiki&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
         </td>
       </tr>
     </table>
-  </p>
+  </p> -->
 </div>
 
