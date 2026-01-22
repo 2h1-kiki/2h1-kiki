@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://www.figma.com/board/JzXAlG10RDv9FQ88Yi3MrW/%EC%9D%B4%ED%98%9C%EC%9B%90-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1">
+    <a href="https://www.figma.com/design/6oHyfR3eCDBftt4WC9qIro/%EC%9D%B4%ED%98%9C%EC%9B%90-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=2-43&t=VlkBsfsapoWhJk1e-4">
       <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=✋🏻Hello,&nbsp;I'm&nbsp;HyeWon&fontSize=45&animation=blinking" />
     </a>
   </p>
